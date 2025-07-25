@@ -5,9 +5,9 @@
 > *Team Name*: CareSight ("Seeing beyond symptoms — Predicting readmission before it happens.") 
 > *Team Members*:  
 > Ayushman Meher - Roll no.23cse502 : Reg no.23UG010585 (Team Lead)
+> > Chinmay Sahoo - Roll no.23cse476 : Reg no.23UG010559
 > Swayamsri Subhamdip Sahoo - Roll no.23cse671 : Reg no.23UG010747
 > Ankit Meher - Roll no.23cse264 : Reg no.23UG010348
-> Chinmay Sahoo - Roll no.23cse476 : Reg no.23UG010559
 
 ---
 
@@ -80,7 +80,7 @@ Hospital readmissions, especially among patients with chronic illnesses (like di
 
 ## 📽 Demo Video
 
-- 👉 [Click Here to Watch the Demo (3-5 mins)](https://drive.google.com/your-demo-video-link-here)  
+- 👉 [Click Here to Watch the Demo (3-5 mins)]([https://drive.google.com/your-demo-video-link-here](https://drive.google.com/file/d/1sSyREtvGRoDTNTKRCYFv4y8vkTZr2Bnu/view?usp=sharing))  
 - (Please ensure the link has *“Anyone with the link can view”* access)
 
 ---
